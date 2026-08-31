@@ -1,4 +1,4 @@
-#  Web Sunshine – E-Commerce Platform Design
+# ☀️ Web Sunshine – E-Commerce Platform Design ☀️
 
 **Web Sunshine** is a complete Figma UI/UX design prototype for a clothing e-commerce platform. This project provides tailored interfaces and workflows for three main user roles:
 
@@ -13,7 +13,7 @@
 
 ---
 
-##  Project Overview
+## 🖼️ Project Overview
 
 ![Web Sunshine Preview](./main.png)
 
