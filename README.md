@@ -15,7 +15,7 @@
 
 ##  Project Overview
 
-![Web Sunshine Preview](./assets/preview.png)
+![Web Sunshine Preview](./assets/main.png)
 
 ---
 
