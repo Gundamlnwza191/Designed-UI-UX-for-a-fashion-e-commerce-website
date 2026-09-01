@@ -14,7 +14,7 @@ The platform includes three main systems:
 
 ### 🌐 Web Application
 
-![Web Sunshine Preview](./maina.png)
+![Web Sunshine Preview](./main.png)
 
 Interactive prototype for the **Responsive Web** version.
 
